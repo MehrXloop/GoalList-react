@@ -1,9 +1,9 @@
 import React from 'react'
-import FirstGoal from './FirstGoal'
-import SecondGoal from './SecondGoal'
-import ThirdGoal from './ThirdGoal'
+import FirstGoal from '../FirstGoal'
+import SecondGoal from '../SecondGoal'
+import ThirdGoal from '../ThirdGoal'
 import './GoalList.css'
-import FourthGoal from './FourthGoal'
+import FourthGoal from '../FourthGoal'
 
 function GoalList() {
   return (
